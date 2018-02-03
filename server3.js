@@ -2,7 +2,7 @@
 var http = require("http");
 
 // Define a port to listen for incoming requests
-var PORT = 7000;
+
 
 var PORT2 =7500
 // Create a generic function to handle requests and responses
